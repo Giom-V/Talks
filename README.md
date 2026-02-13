@@ -1,8 +1,10 @@
-# My Conferences and workshops
+# My Talks and workshops
 
 This folder contains artifacts from my talks and workshops, most of them being about Gemini, the Gemini APIs or SDKs, or AI Studio.
 
-For older talks I just shared the video recording as the slides are already outdated.
+When we have a YouTube video, I also added a link to the [AI Studio App](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true) I built that analyze the talk and give me pointers on how to improve it. I asked it to be ~mean~critic so as you'll see, it has a lot to say on how to give even better talks :)
+
+> **Note:** For older talks I just shared the video recording as the slides are already outdated.
 
 | Date | Conference | Talk's title | Co-presenter | Slides | Code | Video |
 | ---- | ---------- | ------------ | ------------ | ------ | ---- | ----- |
