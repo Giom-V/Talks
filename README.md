@@ -4,7 +4,9 @@ This folder contains artifacts from my talks and workshops, most of them being a
 
 When we have a YouTube video, I also added a link to the [AI Studio App](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true) I built that analyze the talk and give me pointers on how to improve it. I asked it to be ~mean~critic so as you'll see, it has a lot to say on how to give even better talks :)
 
-> **Note:** For older talks I just shared the video recording as the slides are already outdated.
+Speaking of App, if you're wondering who I am, have a look at my "[AI-powered resume](https://ai.studio/apps/drive/1VRVKZ8qFAG6Rgc1np3u8g5eBgbmI9094?fullscreenApplet=true)".
+
+> **Note:** For older talks I just shared the video recording as the slides are already outdated, and as a general rule, these deck of slides will very quickly be outdated as the genAI world is a very fast evolving environement.
 
 | Date | Conference | Talk's title | Co-presenter | Slides | Code | Video |
 | ---- | ---------- | ------------ | ------------ | ------ | ---- | ----- |
