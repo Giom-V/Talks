@@ -12,7 +12,7 @@ Speaking of App, if you're wondering who I am, have a look at my "[AI-powered re
 | ---- | ---------- | ------------ | ------------ | ------ | ---- | ----- |
 | 2026/02/11 | Generative AI Nantes | How Antigravity is transforming the vibe coding |  | [Future of vibe coding - Feb 2026](./2026-02-11%20-%20Future%20of%20vibe%20coding.pdf) | | |
 | 2026/01/* | Multiple events | What's new with Gemini ? | | [What's new in Gemini - Jan 2026](./2026-01%20-%20What's%20new%20in%20Gemini.pdf) | | |
-| 2025/12/09 | Rennes DevOps | Gemini 3, Nano Banana Pro... An overview of new AI features | | | | [**Video**](https://youtu.be/rpShbrx4y-0?si=adWpeai6z4LqEjXR)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DrpShbrx4y-) |
+| 2025/12/09 | Rennes DevOps | Gemini 3, Nano Banana Pro... An overview of new AI features | | | | [**Video**](https://youtu.be/rpShbrx4y-0?si=adWpeai6z4LqEjXR)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DrpShbrx4y-0) |
 | 2025/12/08 | AMA in French | Discord | | | | |
 | 2025/11/06 | Paroles d'expert | Paroles d'expert: Guillaume Vernade, DevRel chez Google DeepMind<br>_Expert words: Guillaume Vernade, DevRel at Google DeepMind_ | | | | [**Video**](https://www.youtube.com/watch?v=aNBoexQCQvc)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DaNBoexQCQvc) |
 | 2025/10/22 | Playtime Brussels | Speaker | | | | |
