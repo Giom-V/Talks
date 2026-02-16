@@ -16,7 +16,7 @@ Speaking of App, if you're wondering who I am, have a look at my "[AI-powered re
 | 2025/12/08 | AMA in French | Discord | | | | |
 | 2025/11/06 | Paroles d'expert | Paroles d'expert: Guillaume Vernade, DevRel chez Google DeepMind<br>_Expert words: Guillaume Vernade, DevRel at Google DeepMind_ | | | | [**Video**](https://www.youtube.com/watch?v=aNBoexQCQvc)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DaNBoexQCQvc) |
 | 2025/10/22 | Playtime Brussels | Speaker | | | | |
-| 2025/10/16 | DevFest Nantes | Abracadabra! Donnez vie à vos idées avec Google AI Studio<br>_Bring your ideas to life with Google AI Studio_ | | | | [**Video**](https://www.youtube.com/watch?v=Vx9dg3UxLHU)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DVx9dg3UxLHU) |
+| 2025/10/16 | DevFest Nantes | Abracadabra! Donnez vie à vos idées avec Google AI Studio<br>_Bring your ideas to life with Google AI Studio_ | | | [Magic mirror](https://github.com/Giom-V/magic-mirror) | [**Video**](https://www.youtube.com/watch?v=Vx9dg3UxLHU)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DVx9dg3UxLHU) |
 | 2025/10/08 | Devoxx Belgium | What's new in the Gemini universe? | | | | [**Video**](https://www.youtube.com/watch?v=cOp5rklR3jI)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DcOp5rklR3jI) |
 | 2025/09/23 | AI Engineer Paris | Build with Google AI Studio: The fastest path from prompt to production | Patrick Loeber, Paige Bailey | | | |
 | 2025/09/18 | Gen AI Days Rennes | Comment tirer le meilleur de Gemini ?<br>_How to get the most out of Gemini?_ | | | | |
@@ -25,3 +25,9 @@ Speaking of App, if you're wondering who I am, have a look at my "[AI-powered re
 | 2025/04/09 | Google Cloud Next | Protecting my pond's fish with Gemini | | | | |
 | 2024/11/23 | DevFest Berlin | How to make the most of Gemini multimodal capabilities? | | | | |
 | 2024/11/09 | DevFest Istanbul | Protecting my pond's fish with Gemini | | | | |
+
+## Other useful repos
+
+* I'm the main contributer and maintainer of the [Gemini cookbook](https://github.com/google-gemini/cookbook) where you can fing all sort of code sameples to get started with the Gemini API. It's mostly Python but this is simple enough for you to grasp what's happening even if you don't know python.
+* I'm also part of the maintenaners of these system instructions in the [Python](https://github.com/googleapis/python-genai/blob/main/codegen_instructions.md) and the [Javascript](https://github.com/googleapis/js-genai/blob/main/codegen_instructions.md), that you can use to teach any LLM how to use the Gemini API.
+* Finally I started a "[Vibe-coding challenge](https://github.com/Giom-V/vibe-coding-challenge)". The goal was to share a vibe-coded app every week, but it ended up being every month instead.
