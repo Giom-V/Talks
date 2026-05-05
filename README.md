@@ -10,8 +10,8 @@ Speaking of App, if you're wondering who I am, have a look at my "[AI-powered re
 
 | Date | Conference | Talk's title | Co-presenter | Slides | Code | Video |
 | ---- | ---------- | ------------ | ------------ | ------ | ---- | ----- |
-| 2026/04/20 | Google Cloud Next | How Antigravity is transforming the vibe coding | Alisa Fortin | [Advancements in generative media - Apr 2026](./2026-04%20-%20Advancements%20in%20generative%20media.pdf)) | | |
-| 2026/04/20 | AI Engineer Miami | How Antigravity is transforming the vibe coding | Alisa Fortin | [Advancements in generative media - Apr 2026](./2026-04%20-%20Advancements%20in%20generative%20media.pdf)) | | |
+| 2026/04/20 | Google Cloud Next | How Antigravity is transforming the vibe coding | Alisa Fortin | [Advancements in generative media - Apr 2026](./2026-04%20-%20Advancements%20in%20generative%20media.pdf) | Lots of demos (links in the slides) | |
+| 2026/04/20 | AI Engineer Miami | How Antigravity is transforming the vibe coding | Alisa Fortin | [Advancements in generative media - Apr 2026](./2026-04%20-%20Advancements%20in%20generative%20media.pdf) | Lots of demos (links in the slides) | |
 | 2026/04/08 | AI Engineer Europe | Let's go Bananas with GenMedia |  | | [Illustrate a book with genMedia models](goo.gle/cookbook-illustration) | |
 | 2026/02/11 | Generative AI Nantes | How Antigravity is transforming the vibe coding |  | [Future of vibe coding - Feb 2026](./2026-02-11%20-%20Future%20of%20vibe%20coding.pdf) | | |
 | 2026/01/* | Multiple events | What's new with Gemini ? | | [What's new in Gemini - Jan 2026](./2026-01%20-%20What's%20new%20in%20Gemini.pdf) | | |
