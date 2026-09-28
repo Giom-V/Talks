@@ -10,6 +10,7 @@ Speaking of App, if you're wondering who I am, have a look at my "[AI-powered re
 
 | Date | Conference | Talk's title | Co-presenter | Slides | Code | Video |
 | ---- | ---------- | ------------ | ------------ | ------ | ---- | ----- |
+| 2026/09/17 | dotAI Paris | Don't become your agent's bitch ! | | [Don't become your agent's bitch - Sept 2026](./2026-09-17%20-%20Don't%20become%20your%20agent's%20bitch.pdf) | | [**Video**](https://www.youtube.com/watch?v=-UHcQD4pwjo)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253D-UHcQD4pwjo)<br><br>[_Critique & Feedback_](./feedback/2026-09-17-dotai-paris.md) |
 | 2026/02/11 | Generative AI Nantes | How Antigravity is transforming the vibe coding |  | [Future of vibe coding - Feb 2026](./2026-02-11%20-%20Future%20of%20vibe%20coding.pdf) | | |
 | 2026/01/* | Multiple events | What's new with Gemini ? | | [What's new in Gemini - Jan 2026](./2026-01%20-%20What's%20new%20in%20Gemini.pdf) | | |
 | 2025/12/09 | Rennes DevOps | Gemini 3, Nano Banana Pro... An overview of new AI features | | | | [**Video**](https://youtu.be/rpShbrx4y-0?si=adWpeai6z4LqEjXR)<br><br>[_Gemini analysis_](https://aistudio.google.com/apps/drive/18XuOzEU1zuseoaPtXrdVUeTY3nNbM80u?fullscreenApplet=true&appParams=value%253DrpShbrx4y-0) |
