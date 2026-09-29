@@ -6,16 +6,20 @@
 * **Speaker :** Guillaume Vernade (Developer Relations Engineer, Google DeepMind)
 * **Captation officielle :** [YouTube Google for Developers](https://www.youtube.com/watch?v=nRLZqaNOrwQ) (26m35s)
 * **Support Slides :** [Slides PDF (16 slides)](../2026-07-06%20-%20Build%20creative%20apps%20with%20the%20GenMedia%20suite.pdf) • [Cookbook Notebook (`Book_illustration.ipynb`)](https://github.com/google-gemini/cookbook/blob/main/examples/Book_illustration.ipynb)
-* **Contexte important :** Ce créneau avait été initialement conçu et préparé comme un **workshop interactif pour développeurs**, avant d'être présenté sous forme de talk sur scène.
-* **Type d'analyse :** Revue vidéo multimodale native (Gemini 3.1 Pro), posture sans complaisance ("sans gants").
+* **Contexte réel :** Ce créneau de 40 minutes sur scène était un **vrai workshop "Code-Along" interactif**. Des développeurs dans la salle avaient leur ordinateur portable ouvert et faisaient tourner le notebook Colab (`Book_illustration.ipynb`) en même temps que Giom sur scène. Les feedbacks reçus à la fin ont confirmé que des participants ont réussi à exécuter l'intégralité du pipeline et à générer leurs assets en direct.
+* **Type d'analyse :** Revue vidéo multimodale native (Gemini 3.1 Pro), enrichie du contexte opérationnel réel de la salle.
 
 ---
 
-## 🎯 Synthèse Globale : Le Syndrome du "Workshop Déguisé en Talk"
+## 🎯 Synthèse Révisée : Le Tour de Force Technique vs Le Format Hybride Amphi
 
-Le projet présenté — prendre un livre du domaine public (*The Wind in the Willows*) et enchaîner toute la suite GenMedia (Gemini, Imagen / Nano Banana, Veo, Lyria, TTS, Omni) pour créer un livre interactif — est **techniquement brillant** et offre un fil rouge narratif hyper cohérent.
+Le débriefing brut de la captation vidéo pointait un "talk trop rapide derrière le MacBook". Mais **le contexte réel rééquilibre fondamentalement le diagnostic** :
+1. **Un succès pédagogique avéré :** Réussir à faire exécuter en direct un pipeline multimodal complet (Gemini $\rightarrow$ Imagen $\rightarrow$ Veo $\rightarrow$ Lyria $\rightarrow$ TTS $\rightarrow$ Omni) à des développeurs dans la salle en **moins de 40 minutes**, sans plantage général de quota ou d'API, est une **véritable prouesse technique et d'animation**.
+2. **La tension du "Double Public" (Codeurs actifs vs Spectateurs passifs) :**
+   * *Groupe A (Les Codeurs avec laptop)* : Avaient absolument besoin de voir le notebook défiler, les cellules de setup (`retry`, API key) et le déroulement du code pour ne pas décrocher. Pour eux, le format a parfaitement fonctionné.
+   * *Groupe B (Les Spectateurs sans laptop & la captation YouTube)* : Ne voyaient qu'un écran de code dense et un speaker concentré sur son écran, d'où l'impression de "scroll de notebook" depuis la régie vidéo.
+3. **Le défi du chrono (40 min pour 5 modèles lourds) :** Chaque seconde comptait. Le débit rapide s'explique par la nécessité absolue d'amener les participants jusqu'à la démo finale avant que le timer ne coupe le micro.
 
-Mais sur le plan scénique, **ce n'est pas un keynote : c'est un "scroll de notebook" sur grand écran.** Parce que la session avait été pensée comme un workshop hands-on, le format tente de faire rentrer au chausse-pied un tutoriel pas-à-pas dans une conférence unidirectionnelle de 26 minutes. Résultat : la présence scénique est sacrifiée derrière le pupitre au profit du défilement de cellules Colab.
 
 ---
 
@@ -91,4 +95,8 @@ Quand un organisateur impose un format atelier/workshop sur un grand amphithéâ
    * Thème à contraste adapté au projecteur de la salle.
 4. **Filet de Sécurité Anti-Latence (Pre-baked Outputs)** :
    * Conserver systématiquement les sorties déjà exécutées en cache dans le notebook ou sur des slides de secours pour parer aux défaillances du Wi-Fi de scène.
+5. **Gérer l'Amphi à Double Public (Codeurs Actifs vs Spectateurs Passifs)** :
+   * **Poser le contrat en 30 secondes** : Dès l'introduction, annoncer clairement les deux modes : *"Ceux qui ont leur laptop ouvert, faites tourner le Colab en direct ; pour les autres, installez-vous confortablement et suivez les démos sur grand écran"*.
+   * **Balises de synchronisation "Keep Moving"** : Annoncer explicitement aux participants de ne pas paniquer s'ils ont 1 cellule de retard : le notebook est auto-porteur. Cela libère le speaker de la culpabilité d'aller vite pour respecter les 40 minutes imposées.
+
 
