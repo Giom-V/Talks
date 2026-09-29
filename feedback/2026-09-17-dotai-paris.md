@@ -40,10 +40,11 @@ En revanche, sur le plan scénique et oratoire, l'analyse vidéo révèle que **
 * `[04:40]` **L'analogie du Stagiaire** : Minimaliste, laisse 100% de l'attention sur l'histoire.
 * `[11:49]` **$0.02 vs Priceless** : Slide signature à fort contraste cognitif (le coût d'un token vs la charge mentale d'un ingénieur).
 
-### ❌ Ce qui a échoué (À proscrire)
-* `[01:10]` & `[01:23]` **Screenshots GitHub bruts** : Bouillie de pixels grisâtres, illisible dès le 3e rang.
-* `[07:26]` **"Killed by Guillaume" (Le cimetière de projets)** : Idée conceptuelle brillante mais exécution graphique inadaptée à une salle de théâtre. Les textes sur les tombes étaient minuscules. Il fallait 3 grandes tombes avec des titres énormes en corps 60.
-* `[09:36]` & `[10:09]` **Murs de texte (Guidelines & repos)** : Dès que le public doit lire un texte à l'écran, il cesse d'écouter l'orateur.
+### ❌ Ce qui a échoué (Mea Culpa du Coach IA sur la génération des slides)
+> **Note d'auto-critique (`slides-coach`) :** C'est l'agent IA lui-même qui a conçu et généré ces slides. Ce feedback visuel s'adresse donc directement au générateur de slides :
+* `[01:10]` & `[01:23]` **Screenshots GitHub bruts** : Bouillie de pixels grisâtres, illisible dès le 3e rang. Ne plus jamais insérer de capture d'écran brute sans zoom massif ou reconstitution vectorielle épurée.
+* `[07:26]` **"Killed by Guillaume" (Le cimetière de projets)** : Idée conceptuelle brillante mais exécution graphique trop chargée pour une salle de théâtre. Les textes sur les tombes étaient trop petits. Il fallait maximum 3 grandes tombes avec des titres géants (corps 60+) et zéro sous-texte.
+* `[09:36]` & `[10:09]` **Murs de texte (Guidelines & repos)** : Dès que le public doit lire un texte à l'écran, il cesse d'écouter l'orateur. Inspiré des meilleures slides de dotAI (Greg Qualls, David Louapre), le coach doit imposer un plafond strict de 10 à 15 mots par slide.
 
 ---
 
