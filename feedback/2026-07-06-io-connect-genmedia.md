@@ -71,3 +71,24 @@ Mais sur le plan scénique, **ce n'est pas un keynote : c'est un "scroll de note
 | **Lisibilité des slides** | 🟠 Scroll de code et de JSON brut dans Colab. | 🟡 Mieux structuré, mais encore pollué par des screenshots bruts et petits textes *(erreur imputable au coach IA qui a généré les slides !)*. | **À corriger côté Coach IA** |
 | **Ancrage corporel** | 🟠 Swaying dès qu'il sort du pupitre. | 🟠 Swaying toujours présent sur scène. | **Défaut persistant (=)** |
 | **Débit & Silences** | 🔴 Débit rapide, zéro silence, *"so / basically / like"*. | 🔴 Débit toujours trop rapide, punchlines enchaînées sans pause de 3s. | **Priorité #1 du prochain talk** |
+
+---
+
+## 6. 💡 Le Playbook de Survie quand un "Workshop sur Scène" est Imposé
+
+Quand un organisateur impose un format atelier/workshop sur un grand amphithéâtre ou une scène principale (contrainte fréquente en conférence tech), le speaker ne peut pas simplement dire non. En revanche, il peut éviter le piège du "bunker" grâce à 4 règles strictes :
+
+1. **L'arme secrète dans Google Colab : Le raccourci `Alt + V`** :
+   * En pleine démo, `Alt + V` bascule la cellule courante ou son résultat (image Imagen, clip vidéo Veo, output audio) en **mode focus / plein écran**.
+   * Cela évite à 500 personnes de plisser les yeux sur un carré de 200px perdu au milieu des barres de menus de Colab.
+2. **Le "Podium Breakout" (La Règle des 3 Postures)** :
+   * **Posture 1 (Le Setup Clavier, ≤ 20s)** : Derrière le laptop uniquement pour lancer l'exécution.
+   * **Posture 2 (Le Décrochage Immédiat)** : Dès que la cellule tourne (inférence IA qui prend 5 à 15s), **interdiction de regarder l'écran**. Faire 3 pas en avant vers le bord de scène, regarder la salle dans les yeux et expliquer le concept sous le capot.
+   * **Posture 3 (La Révélation `Alt + V`)** : Revenir taper `Alt + V`, projeter l'output en grand et commenter le résultat face à l'audience, jamais face au MacBook.
+3. **Setup Machine Pré-Talk (Stage Readiness)** :
+   * Zoom navigateur à **125% - 150%**.
+   * Masquage complet de la barre latérale (Table des Matières).
+   * Thème à contraste adapté au projecteur de la salle.
+4. **Filet de Sécurité Anti-Latence (Pre-baked Outputs)** :
+   * Conserver systématiquement les sorties déjà exécutées en cache dans le notebook ou sur des slides de secours pour parer aux défaillances du Wi-Fi de scène.
+
